@@ -1,5 +1,5 @@
 # Loop
-Helpfull Loop
+Helpful Loop
 -----------------
 
 
